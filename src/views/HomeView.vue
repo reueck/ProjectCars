@@ -7,7 +7,7 @@ const carsList = ref(cars)
 
 <template>
 	<div>
-		<h1>Kars for sejl</h1>
+		<h1>Cars in stock:</h1>
 		<div class="container">
 			<router-link :to="`/cars/${car.id}`" v-for="car in carsList" :key="car.id" class="car-card">
            
