@@ -48,7 +48,12 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "John Doe",
+                    "phone": "555-555-5555",
+                    "email": "random@email.com"}
+
     },
     {
         "id":2,
@@ -99,7 +104,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "John Doodoo",
+                    "phone": "555-555-5555",
+                    "email": "john-doodoo@email.com"}
     },
     {
         "id":3,
@@ -150,7 +159,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Big Lebowski",
+                    "phone": "555-555-5555",
+                    "email": "big.lebowski@email.com"}
     },
     {
         "id":4,
@@ -201,7 +214,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Jan Mlekovic",
+                    "phone": "555-555-5555",
+                    "email": "jan.mlekovic@email.com"}
     },
     {
         "id":5,
@@ -252,7 +269,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Andy Benard",
+                    "phone": "555-555-5555",
+                    "email": "andy.benard@email.com"}
 
     },
     {
@@ -304,7 +325,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Raymond Reddington",
+                    "phone": "555-555-5555",
+                    "email": "raymond.reddington@email.com"}
     },
     {
         "id":7,
@@ -355,7 +380,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Michu Lysy",
+                    "phone": "555-555-5555",
+                    "email": "michu.lysy@email.com"}
     },
     {
         "id":8,
@@ -406,7 +435,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Dziadek Random",
+                    "phone": "555-555-5555",
+                    "email": "dziadek.random@email.com"}
     },
     {
         "id":9,
@@ -457,7 +490,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Michael Random",
+                    "phone": "555-555-5555",
+                    "email": "michael.random@email.com"}
         
     },
     {
@@ -509,7 +546,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "David Sawsaw",
+                    "phone": "555-555-5555",
+                    "email": "david.sawsaw@email.com"}
 
     },
     {
@@ -561,7 +602,11 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Casper Teeth",
+                    "phone": "555-555-5555",
+                    "email": "casper.teeth@email.com"}
     },
     {
         "id":12,
@@ -612,6 +657,10 @@
             {
                 "id": 8,
                 "name": "Remote Start",
-                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}]
+                "description": "Remote start is a feature that allows a vehicle to be started from a distance using a wireless signal. "}],
+                "contact": {
+                    "name": "Zbigniew Zboveet",
+                    "phone": "555-555-5555",
+                    "email": "zbigniew.zboveet@email.com"}
             }
         ]
