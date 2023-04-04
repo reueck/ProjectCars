@@ -12,7 +12,7 @@ const carsList = ref(cars)
 			<router-link :to="`/cars/${car.id}`" v-for="car in carsList" :key="car.id" class="car-card">
            
 				<h2>{{ car.year }} {{ car.name }} {{ car.model }}</h2>
-				<p>Price: {{ car.price }}</p>
+				<p>Price: {{ car.price }} $</p>
 			
             </router-link>
 		</div>
